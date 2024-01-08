@@ -1,0 +1,126 @@
+/* Common styles */
+body {
+    font-family: 'Roboto', sans-serif;
+    ;
+}
+
+.headingthreeone {
+    color: #ff3636;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 400;
+    margin-bottom: 0px;
+    padding: 170px 0px 0px 0px;
+}
+
+.headingone {
+
+    color: #ff3636;
+    text-align: center;
+    font-size: 72px;
+    font-weight: 900;
+    margin: 16px auto;
+    width: 630px;
+}
+
+.banner {
+    width: 1320px;
+    height: 600px;
+    background-image: url('./resources/Banner\ Image.png');
+    background-position: top;
+    background-repeat: no-repeat;
+    border-radius: 16px;
+    margin: auto;
+}
+
+.sale {
+    margin-top: 120px;
+    margin-bottom: 120px;
+    text-align: center;
+
+}
+
+.midnight {
+    width: 1320px;
+    height: 600px;
+    background-image: url(resources/Vectorrr.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 8px;
+    margin: auto;
+    padding-top: 125px;
+    padding-left: 125px;
+    display: flex;
+    
+
+}
+
+.midnight-title {
+    width: 642px;
+    color: #FFF;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 900;
+    
+}
+
+.midnight-content {
+    width: 697px;
+    color: rgba(255, 255, 255, 0.80);
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    
+    
+}
+
+.btn-primary{
+    border-radius: 8px;
+    border: none;
+    font-size: 20px;
+    color:#FFF;
+    background-color: #ff3636;
+    padding: 16px 32px;
+}
+.groupseventy{
+    height: 460px;
+    width: 320px;
+    padding: 40px 80px;
+}
+
+.date-time-info{
+    height: 482px;
+    width: 1320px;
+    background-color: aqua;
+    margin: auto;
+    margin-top: 120px;
+    color: #F00;
+    font-size: 28px;
+    font-weight: 600;
+
+    text-align: center;
+}
+.main-info{
+    padding: 100px 385px 20px 385px;
+}
+
+.place{
+    margin: 0px;
+}
+.date{
+    margin-top: 12px;
+    margin-bottom: 0px;
+}
+.time{
+    margin-top: 12px;
+    margin-bottom: 30px;
+}
+
+.btn-primary-two{
+    border-radius: 8px;
+    border: none;
+    font-size: 20px;
+    color:#FFF;
+    background-color: #ff3636;
+    padding: 16px 32px;
+}
