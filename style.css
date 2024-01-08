@@ -124,3 +124,55 @@ body {
     background-color: #ff3636;
     padding: 16px 32px;
 }
+
+.bonus-mark-part{
+    width: 1320px;
+    height: 500px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 120px auto;
+}
+
+
+.first-part-para{
+    height:130px;
+    width: 390px;
+}
+.left-part-para{
+    height: 95px;
+    width: 275px;
+}
+
+.round-part{
+    padding-right: 60px;
+}
+
+
+.round-img{
+    
+    padding: 20px;
+    border: 15px solid red;
+    border-radius: 100%;
+
+}
+
+.optional{
+    text-align: center;
+    height:1000px;
+    width:1320px;
+    /* background-image: url('./resources/Rectangle\ 2.png');
+    background-repeat: no-repeat;
+    background-position: bottom; */
+    margin: auto;
+}
+.girl{
+    padding: 184px 0px 0px 891px;
+}
+
+.main-part{
+    height: 1165px;
+    width: 1320px;
+    margin: auto;
+}
+
