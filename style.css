@@ -4,6 +4,8 @@ body {
     ;
 }
 
+/* header styles start */
+
 .headingthreeone {
     color: #FFF;
     text-align: center;
@@ -30,6 +32,8 @@ body {
     border-radius: 16px;
     margin: auto;
 }
+
+/* header styles end */
 
 .sale {
     margin: 120px auto;
