@@ -272,6 +272,14 @@ body {
     gap: 20px;
 }
 
+.img{
+    transition: 0.15s;
+}
+
+.img:hover{
+    opacity: 70%;
+}
+
 .main-part-title {
     color: #F00;
     font-size: 20px;
