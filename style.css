@@ -35,6 +35,8 @@ body {
 
 /* header styles end */
 
+/* main styles start */
+
 .sale {
     margin: 120px auto;
     text-align: center;
@@ -385,7 +387,9 @@ body {
     
 }
 
-/* footer styles */
+/* main styles ending */
+
+/* footer styles start */
 
 footer {
 
@@ -440,3 +444,5 @@ hr {
     padding: 10px 140px;
     justify-content: space-between;
 }
+
+/* footer styles end */
